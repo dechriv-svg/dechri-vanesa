@@ -1,0 +1,4 @@
+install git di terminal git --version install vscode dan punya github
+buka repo di github  copy url https/ssh di bagian code di github
+di vscode pilih git clone paste url repo pilih folder penyimpanan 
+repo akan terbuka di vscode
